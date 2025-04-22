@@ -19,6 +19,7 @@ You can delete audio from server:[PORT]/manage (You need activate admin mode in 
  - NODE:READLINE
  
  - -> `npm i http fs path socket.io formidable node:readline`
+   
 (python)
  - Last version of python (https://www.python.org/downloads/)
  - YT_DLP -> `python3 -m pip install -U "yt-dlp[default]"` (https://github.com/yt-dlp/yt-dlp/wiki/Installation)
